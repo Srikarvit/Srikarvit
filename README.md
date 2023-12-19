@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Srikar
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning vit vellore 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me phone 8328463075
 
 <!---
